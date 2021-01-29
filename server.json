@@ -2,6 +2,18 @@
   "techs": [
     {
       "id": "ReactJs"
+    },
+    {
+      "id": "nodejs"
+    },
+    {
+      "id": "React native"
+    },
+    {
+      "id": "Node Js"
+    },
+    {
+      "id": "HTML"
     }
   ]
 }
